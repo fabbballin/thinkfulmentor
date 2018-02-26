@@ -1,0 +1,9 @@
+{
+    "baseUrl":"https://raw.githubusercontent.com/fabbballin/thinkfulmentor/master/guides",
+    "guides": [
+        {
+            "name": "Mentoring Full Session Guide",
+            "path": "/full_session.md"
+        }
+    ]
+}
